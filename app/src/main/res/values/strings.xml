@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GroupRecyclerView</string>
+    <string name="switch_fragment">Switch Fragment</string>
+    <string name="title_own_grouping">Own Grouping</string>
+    <string name="title_library_grouping">Library Grouping</string>
+
+
+
+</resources>
