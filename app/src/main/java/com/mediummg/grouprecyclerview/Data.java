@@ -39,7 +39,7 @@ public class Data {
 
         year1983.addBirthdayMen(new LibraryContact(mLong.getAndIncrement(), "Ivanov K", new DateTime(1983, 4, 5, 0, 0)));
         year1983.addBirthdayMen(new LibraryContact(mLong.getAndIncrement(), "Petrov L", new DateTime(1983, 6, 25, 0, 0)));
-        year1983.addBirthdayMen(new LibraryContact(mLong.getAndIncrement(), "Vasechkin M", new DateTime(1983, 5, 3, 0, 0)));
+        year1983.addBirthdayMen(new LibraryContact(mLong.getAndIncrement(), "Vasechkin M", new DateTime(1983, 8, 3, 0, 0)));
 
         data.add(year1980);
         data.add(year1981);
@@ -71,7 +71,7 @@ public class Data {
 
         year1983.addBirthdayMen(new OwnContact("Ivanov K", new DateTime(1983, 4, 5, 0, 0)));
         year1983.addBirthdayMen(new OwnContact("Petrov L", new DateTime(1983, 6, 25, 0, 0)));
-        year1983.addBirthdayMen(new OwnContact("Vasechkin M", new DateTime(1983, 5, 3, 0, 0)));
+        year1983.addBirthdayMen(new OwnContact("Vasechkin M", new DateTime(1983, 8, 3, 0, 0)));
 
         data.add(year1980);
         data.add(year1981);

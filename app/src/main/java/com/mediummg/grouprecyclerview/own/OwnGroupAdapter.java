@@ -98,7 +98,7 @@ public class OwnGroupAdapter extends RecyclerView.Adapter<OwnViewHolder> {
                 // notify about removing
                 notifyItemRangeRemoved(position + 1, countRemovedItems);
 
-                // notify to update clicked item for changing state
+                // notify to update clicked item about changed state
                 notifyItemChanged(position);
             } else {
                 // need to expand inner group
@@ -108,7 +108,7 @@ public class OwnGroupAdapter extends RecyclerView.Adapter<OwnViewHolder> {
                 // notify about adding new items
                 notifyItemRangeInserted(position + 1, mOwnYear.getBirthdayMen().size());
 
-                // notify to update clicked item for changing state
+                // notify to update clicked item about changed state
                 notifyItemChanged(position);
             }
         }

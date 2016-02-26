@@ -1,0 +1,2 @@
+Lecture: https://docs.google.com/presentation/d/1Aja--qzXxXUyPoHrDKxgG-LfSMugx9DzjnFCnyDCxTQ/edit?usp=sharing
+Advanced RecyclerView: https://github.com/h6ah4i/android-advancedrecyclerview
