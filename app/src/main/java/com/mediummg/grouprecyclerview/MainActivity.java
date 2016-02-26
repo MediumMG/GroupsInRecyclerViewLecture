@@ -8,8 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.CompoundButton;
 
-import com.mediummg.grouprecyclerview.fragments.LibraryGroupingFragment;
-import com.mediummg.grouprecyclerview.fragments.OwnGroupingFragment;
+import com.mediummg.grouprecyclerview.library.LibraryGroupingFragment;
+import com.mediummg.grouprecyclerview.own.OwnGroupingFragment;
 
 public class MainActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
 

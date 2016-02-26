@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.fragments;
+package com.mediummg.grouprecyclerview.own;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -13,7 +13,6 @@ import com.h6ah4i.android.widget.advrecyclerview.animator.GeneralItemAnimator;
 import com.h6ah4i.android.widget.advrecyclerview.animator.RefactoredDefaultItemAnimator;
 import com.mediummg.grouprecyclerview.Data;
 import com.mediummg.grouprecyclerview.R;
-import com.mediummg.grouprecyclerview.adapters.OwnGroupAdapter;
 
 /**
  * Created by MediumMG on 22.02.2016.

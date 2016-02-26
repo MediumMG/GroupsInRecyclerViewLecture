@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.models;
+package com.mediummg.grouprecyclerview.library;
 
 import org.joda.time.DateTime;
 

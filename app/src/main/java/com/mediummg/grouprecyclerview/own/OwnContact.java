@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.models;
+package com.mediummg.grouprecyclerview.own;
 
 import org.joda.time.DateTime;
 
@@ -13,7 +13,7 @@ public class OwnContact extends OwnBase{
     public OwnContact(String name, DateTime dob) {
         mName = name;
         mDOB = dob;
-        mViewType = OwnBase.VIEW_TYPE_CHILD;
+        mViewType = VIEW_TYPE_CHILD;
     }
 
     public String getName() {

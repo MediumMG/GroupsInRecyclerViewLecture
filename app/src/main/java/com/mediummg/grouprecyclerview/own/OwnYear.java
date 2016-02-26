@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.models;
+package com.mediummg.grouprecyclerview.own;
 
 import java.util.ArrayList;
 
@@ -13,7 +13,7 @@ public class OwnYear extends OwnBase {
 
     public OwnYear(int year) {
         mYear = year;
-        mViewType = OwnBase.VIEW_TYPE_GROUP;
+        mViewType = VIEW_TYPE_GROUP;
         mExpanded = false;
     }
 

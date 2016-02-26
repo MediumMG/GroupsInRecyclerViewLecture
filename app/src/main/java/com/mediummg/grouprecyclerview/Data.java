@@ -1,10 +1,10 @@
 package com.mediummg.grouprecyclerview;
 
-import com.mediummg.grouprecyclerview.models.LibraryContact;
-import com.mediummg.grouprecyclerview.models.LibraryYear;
-import com.mediummg.grouprecyclerview.models.OwnBase;
-import com.mediummg.grouprecyclerview.models.OwnContact;
-import com.mediummg.grouprecyclerview.models.OwnYear;
+import com.mediummg.grouprecyclerview.library.LibraryContact;
+import com.mediummg.grouprecyclerview.library.LibraryYear;
+import com.mediummg.grouprecyclerview.own.OwnBase;
+import com.mediummg.grouprecyclerview.own.OwnContact;
+import com.mediummg.grouprecyclerview.own.OwnYear;
 
 import org.joda.time.DateTime;
 

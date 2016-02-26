@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.adapters;
+package com.mediummg.grouprecyclerview.own;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -6,12 +6,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.mediummg.grouprecyclerview.R;
-import com.mediummg.grouprecyclerview.models.OwnBase;
-import com.mediummg.grouprecyclerview.models.OwnContact;
-import com.mediummg.grouprecyclerview.models.OwnYear;
-import com.mediummg.grouprecyclerview.viewholders.OwnChildViewHolder;
-import com.mediummg.grouprecyclerview.viewholders.OwnGroupViewHolder;
-import com.mediummg.grouprecyclerview.viewholders.OwnViewHolder;
 
 import java.util.ArrayList;
 

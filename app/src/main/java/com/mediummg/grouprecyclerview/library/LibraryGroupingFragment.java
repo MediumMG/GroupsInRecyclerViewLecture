@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.fragments;
+package com.mediummg.grouprecyclerview.library;
 
 import android.os.Bundle;
 import android.os.Parcelable;
@@ -16,7 +16,6 @@ import com.h6ah4i.android.widget.advrecyclerview.expandable.RecyclerViewExpandab
 import com.h6ah4i.android.widget.advrecyclerview.utils.WrapperAdapterUtils;
 import com.mediummg.grouprecyclerview.Data;
 import com.mediummg.grouprecyclerview.R;
-import com.mediummg.grouprecyclerview.adapters.LibraryGroupAdapter;
 
 /**
  * Created by MediumMG on 22.02.2016.

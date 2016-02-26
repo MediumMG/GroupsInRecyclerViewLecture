@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.adapters;
+package com.mediummg.grouprecyclerview.library;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,10 +7,10 @@ import android.view.ViewGroup;
 import com.h6ah4i.android.widget.advrecyclerview.expandable.RecyclerViewExpandableItemManager;
 import com.h6ah4i.android.widget.advrecyclerview.utils.AbstractExpandableItemAdapter;
 import com.mediummg.grouprecyclerview.R;
-import com.mediummg.grouprecyclerview.models.LibraryContact;
-import com.mediummg.grouprecyclerview.models.LibraryYear;
-import com.mediummg.grouprecyclerview.viewholders.LibraryChildViewHolder;
-import com.mediummg.grouprecyclerview.viewholders.LibraryGroupViewHolder;
+import com.mediummg.grouprecyclerview.library.LibraryContact;
+import com.mediummg.grouprecyclerview.library.LibraryYear;
+import com.mediummg.grouprecyclerview.library.LibraryChildViewHolder;
+import com.mediummg.grouprecyclerview.library.LibraryGroupViewHolder;
 
 import java.util.ArrayList;
 

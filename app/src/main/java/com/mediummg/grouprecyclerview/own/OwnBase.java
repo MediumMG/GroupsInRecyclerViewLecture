@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.models;
+package com.mediummg.grouprecyclerview.own;
 
 /**
  * Created by MediumMG on 22.02.2016.

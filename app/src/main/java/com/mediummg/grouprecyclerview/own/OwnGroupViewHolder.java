@@ -1,4 +1,4 @@
-package com.mediummg.grouprecyclerview.viewholders;
+package com.mediummg.grouprecyclerview.own;
 
 import android.view.View;
 import android.widget.TextView;
